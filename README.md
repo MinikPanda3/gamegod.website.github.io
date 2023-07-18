@@ -1,10 +1,12 @@
-# kendinize-ozel-site
+## Discord Bot Site Altyapısı!
 
-*Alın Linkleri Falan Ayarlayın Keyfinize bakın.*
+## 📑 Site Özellikleri
 
-# Değişicek Şeyler
+- [x] Sade Tasarım
+- [x] Politika Sayfaları
+- [x] Özellikler 
 
-- *Linkler Değişmeli*
-- *İsim Değişmeli*
-- *Profil Fotoğrafı Değişmeli*
-- *Hata Alırsanız [Valoue](https://discord.com/channels/@me/1130592853681250404) ve [Bana](https://discord.com/channels/@me/1129772026266124379) Uğlaşabilirsiniz*
+## 📷 Görseller
+![image](https://media.discordapp.net/attachments/1100516959126294629/1101822987356885022/image.png?width=960&height=506)
+
+![image](https://media.discordapp.net/attachments/1100516959126294629/1101823090515779666/image.png?width=960&height=510)
